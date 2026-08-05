@@ -33,14 +33,14 @@
       "fullName": "memebank/mbk-pwa",
       "exists": true,
       "branch": "master",
-      "sha": "b556909505bf14b3dc4277eeb6681bea4cb037fe",
+      "sha": "022e9ee831c1055bc91413173c45a13c0f92dbbc",
       "visibility": "private"
     },
     {
       "fullName": "memebank/mbk-rest-api",
       "exists": true,
       "branch": "master",
-      "sha": "ecfc03a3838b33c19dae00a2304d4348f2cf0575",
+      "sha": "8feb7801399e88a9e35f4da4215501a7da37b7e7",
       "visibility": "private"
     }
   ],
