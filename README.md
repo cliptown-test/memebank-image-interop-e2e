@@ -19,8 +19,8 @@ Source organization: `cliptown`
 | Source | Commit | Branch observed |
 |---|---:|---|
 | `cliptown/cliptown-flutter` | `e1c88fe94467db01859faf4ad88ca958045d3d74` | `main` |
-| `memebank/mbk-pwa` | `b556909505bf14b3dc4277eeb6681bea4cb037fe` | `master` |
-| `memebank/mbk-rest-api` | `ecfc03a3838b33c19dae00a2304d4348f2cf0575` | `master` |
+| `memebank/mbk-pwa` | `022e9ee831c1055bc91413173c45a13c0f92dbbc` | `master` |
+| `memebank/mbk-rest-api` | `8feb7801399e88a9e35f4da4215501a7da37b7e7` | `master` |
 
 ## Dependency lanes
 
